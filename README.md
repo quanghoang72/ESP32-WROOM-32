@@ -46,5 +46,5 @@ In case the sensors do not work, check the addresses of those sensors by running
 ---  
 To access to the web sever, copy and paste the ESP32 IP address to the web browser.
 ## Result
-<img src="attachments/lcd_display.jpg"  width="80%" height="100%">
+<img src="attachments/lcd_display.jpg"  width="60%" height="100%">
 <img src="attachments/websever.png"  width="80%" height="100%">
