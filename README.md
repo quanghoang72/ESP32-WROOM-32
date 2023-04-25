@@ -17,7 +17,9 @@ A multiple slaves I2C communication protocol to master ESP32 is designed to read
 |SCL (D22) | | :heavy_check_mark: | :heavy_check_mark: | |
 |RX2 (16)| :heavy_check_mark: | | |
 |TX2 (17)| :heavy_check_mark: | | |
-| GND| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|  
+| GND| :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|   
+
+
 Hardware requirements:  
 - [ESP32-WROOM-32](https://www.espressif.com/en/products/modules/esp32)  
 - [Pressure Sensor BMP280](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/bmp280/)  
